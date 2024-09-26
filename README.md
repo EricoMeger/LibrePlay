@@ -5,7 +5,7 @@
 ~~![Logo do Projeto](.)~~
 
 ### b. Redes Sociais do Projeto
-- ~~[Instagram](link_instagram)~~
+- [Instagram](https://www.instagram.com/ifpr_pinhais_esw/)
 
 ### c. Equipe
 - André Cecato
